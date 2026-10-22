@@ -1,6 +1,6 @@
-# Opiniones de Jessica
+# Opiniones de Juan José
 
-- **Usuario de GitHub:** [@JessiBn](https://github.com/JessiBn)
+- **Usuario de GitHub:** [@juanse-create](https://github.com/juanse-create)
 - **Participación:** Tester.
 - **Fecha límite:** 25 de octubre de 2026, 23:59 (hora de Ciudad de México, America/Mexico_City).
 - **Versión a evaluar:** PetReminder 1.0.0-beta.1+2 para Android.
@@ -18,7 +18,7 @@ No publiques contraseñas, credenciales ni datos personales. Oculta esa informac
 
 ## Reporte de opiniones
 
-**Estado:** Pendiente de completar por Jessica.
+**Estado:** Pendiente de completar por Juan José.
 
 - **Fecha de la prueba o revisión:**
 - **Dispositivo y versión de Android:**

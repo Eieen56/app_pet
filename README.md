@@ -26,7 +26,7 @@ Cada participante puede completar el README de su carpeta o subir allí sus come
 | Participante | Usuario de GitHub | Carpeta de opiniones |
 | --- | --- | --- |
 | Iker — tester | [IKLEN10](https://github.com/IKLEN10) | [Opiniones de Iker](opiniones/IKLEN10/README.md) |
-| Jessica — tester | [JessiBn](https://github.com/JessiBn) | [Opiniones de Jessica](opiniones/JessiBn/README.md) |
+| Juan José — tester | [juanse-create](https://github.com/juanse-create) | [Opiniones de Juan José](opiniones/juanse-create/README.md) |
 | Abraham — tester | [cr7-ssa](https://github.com/cr7-ssa) | [Opiniones de Abraham](opiniones/cr7-ssa/README.md) |
 | Ing. Dulce Sugey — docente | [DSRG80](https://github.com/DSRG80) | [Opiniones de la docente](opiniones/DSRG80/README.md) |
 
